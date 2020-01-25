@@ -1,12 +1,24 @@
-Stars, like betelguese and the fact that it is so large. Twin stars and thier properties. Gauged Six-Dimensional
-Chiral Supergravity and its
-Origins from String Theory
+### Topics of Interest to Research
 
-The yakuza and other underground organizations in history
+#### Space stuff
+- Stars, like Betelgeuse and the fact that it is so large
+- Twin stars and their properties.
+- Gauged Six-Dimensional Chiral Supergravity and its origins from String Theory
 
-Computer science and programming theory 
+#### Underground organizations
+- The Yakuza
+- Different mafias
+- Free Masons
+- Illuminati
 
-The state and the economy of the past decade
-The state and the economy of the next decade
+#### Computer science and programming theory 
 
-History and scientific effects of accupuncture and holistic-style medicines
+#### History
+- The state and the economy of the past decade
+- The state and the economy of the next decade
+
+#### Medicine
+- History
+- scientific effects
+- Acupuncture 
+- Holistic-style
