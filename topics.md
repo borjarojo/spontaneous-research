@@ -5,8 +5,8 @@
 - Twin stars and their properties.
 - Gauged Six-Dimensional Chiral Supergravity and its origins from String Theory
 
-#### Underground organizations
-- The Yakuza
+#### [Underground organizations][underground-organizations]
+- Yakuza
 - Different mafias
 - Free Masons
 - Illuminati
@@ -22,3 +22,6 @@
 - scientific effects
 - Acupuncture 
 - Holistic-style
+
+[underground-organizations]: underground-organizations/
+
